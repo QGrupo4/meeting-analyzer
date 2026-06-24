@@ -1,0 +1,23 @@
+Meeting Date: 2026-06-22
+
+Architecture Review
+
+## Agenda
+
+Discuss microservices vs monolith approach for the new payment system.
+
+## Discussion
+
+The team reviewed two approaches. Microservices offer better scalability but add operational complexity.
+Monolith would be faster to ship but harder to scale later.
+
+## Decision
+
+We decided to go with a modular monolith. This gives us a single deployable unit with clear module boundaries.
+We can extract services later if needed.
+
+## Action Items
+
+- Alice will draft the module interface specifications.
+- Bob will set up the shared database schema.
+- Team to reconvene in two weeks for code review.
