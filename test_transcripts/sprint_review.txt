@@ -1,0 +1,27 @@
+Meeting Date: 2026-06-20
+
+Sprint Review - Week 25
+
+## Sprint Goals
+
+We aimed to complete the user authentication module and the reporting dashboard.
+
+## Progress
+
+The authentication module is complete with login, registration, and password reset.
+The reporting dashboard is still in progress. We have the charts rendering but the export feature needs work.
+
+## Blockers
+
+The database migration script failed in staging. Need DevOps to investigate.
+API rate limiting is causing issues with the reporting endpoint.
+
+## Action Items
+
+- John will fix the database migration by Tuesday.
+- Sarah will complete the export feature by Friday.
+- Team to review API rate limiting in tomorrow's standup.
+
+## Next Steps
+
+Continue with the reporting dashboard. Start planning the notification system for next sprint.
