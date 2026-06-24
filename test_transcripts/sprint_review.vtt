@@ -1,0 +1,33 @@
+WEBVTT
+
+1
+00:00:01.000 --> 00:00:05.000
+John: Welcome everyone to the sprint review.
+
+2
+00:00:06.000 --> 00:00:12.000
+Sarah: The authentication module is complete and deployed.
+
+3
+00:00:13.000 --> 00:00:20.000
+John: Great. What about the reporting dashboard?
+
+4
+00:00:21.000 --> 00:00:30.000
+Sarah: The charts are rendering but the export feature needs more work.
+
+5
+00:00:31.000 --> 00:00:38.000
+Mike: We have a blocker. The database migration failed in staging.
+
+6
+00:00:39.000 --> 00:00:45.000
+John: I will fix the migration by Tuesday.
+
+7
+00:00:46.000 --> 00:00:52.000
+Sarah: I will complete the export feature by Friday.
+
+8
+00:00:53.000 --> 00:01:00.000
+John: Let's review the action items and close the meeting.
